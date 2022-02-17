@@ -206,7 +206,7 @@ body {
 }
 
 .intro {
-  background-color: url(img/image bg.jpg) ;
+  background-color: url(/img/image bg.jpg) ;
   background-size: cover;
 }
 
